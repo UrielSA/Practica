@@ -1,0 +1,106 @@
+.button-1{
+    background-color: red;
+    color: white;
+    border-radius: none;
+    border-style: none;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.button-2{
+    color:blue;
+    background-color: white;
+    border-color: blue;
+    border-radius: 2px;
+    border-width: 1px;
+    width: 45px;
+    height: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.button-3{
+    background-color: rgb(14, 186, 249);
+    color: white;
+    border: none;
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 10px;
+    
+    
+}
+.button-4{
+    margin-top:10px;
+    color: white;
+    background-color: black;
+    height: 39px;
+    width: 100px;
+}
+
+.button-5{
+
+    color: black;
+    background-color: rgb(243, 217, 20);
+    border-style:none;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.button-6{
+    color: white;
+    background-color: green;
+    height: 30px;
+    width: 100px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.button-7{
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(211, 4, 211);
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-8{
+    color: grey;
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 3px;
+    border-width: 1px;
+
+}
+
+.button-9{
+    margin-top: 10px;
+    height: 30px;
+    width: 190px;
+    color: white;
+    background-color: rgb(3, 126, 248);
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.button-10{
+    color: rgb(3, 126, 248);
+    border-color:rgb(3, 126, 248);
+    border-width: 1px;
+    height: 30px;
+    width: 70px;
+    border-radius: 20px;
+    font-weight: bold;
+}
